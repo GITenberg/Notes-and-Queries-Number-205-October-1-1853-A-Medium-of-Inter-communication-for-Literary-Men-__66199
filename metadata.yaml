@@ -1,5 +1,8 @@
 _repo: Notes-and-Queries-Number-205-October-1-1853-A-Medium-of-Inter-communication-for-Literary-Men-__66199
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66199-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9248
     wikipedia: https://en.wikipedia.org/wiki/George_Bell_%28publisher%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66199#Notes-and-Queries-Number-205-October-1-1853-A-Medium-of-Inter-communication-for-Literary-Men-_
 gutenberg_issued: '2021-09-01'
 identifiers:
   gutenberg: '66199'
